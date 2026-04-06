@@ -1,3 +1,34 @@
+# 1: Employee Management System
+# Complete the Employee, Developer, and Manager classes by adding required features.
+
+# Employee class:
+# The Employee class should act as the parent class.
+
+# Features to be added to Employee class
+# Add below attributes:
+# id
+# name
+# salary
+# Add below methods:
+# display_details() : Prints employee id, name, and salary
+# Developer class:
+# The Developer class inherits from Employee.
+
+# Features to be added to Developer class
+# Add below attributes:
+# programming_language
+# Add below methods:
+# display_details() : Override parent method and include programming language
+# Manager class:
+# The Manager class inherits from Employee.
+
+# Features to be added to Manager class
+# Add below attributes:
+# team_size
+# Add below methods:
+# display_details() : Override parent method and include team size
+
+
 class Employee:
     def __init__(self, id, name, salary):
         self.id = id
