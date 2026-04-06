@@ -1,4 +1,31 @@
+# 4: Banking System (Multilevel Inheritance)
+# Complete the  Account, SavingsAccount, and PremiumSavings classes.
 
+# Account class:
+# The Account class is the base class.
+
+# Features to be added to Account class
+# Add below attributes:
+# account_number
+# balance
+# Add below methods:
+# display_balance() : Prints account balance
+# SavingsAccount class:
+# The SavingsAccount class inherits from Account.
+
+# Features to be added to SavingsAccount class
+# Add below attributes:
+# interest_rate
+# Add below methods:
+# calculate_interest() : Prints calculated interest
+# PremiumSavings class:
+# The PremiumSavings class inherits from SavingsAccount.
+
+# Features to be added to PremiumSavings class
+# Add below attributes:
+# cashback_percentage
+# Add below methods:
+# display_features() : Prints interest_rate and cashback_percentage
 
 class Account:
     def __init__(self, account_number, balance):
