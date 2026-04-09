@@ -1,16 +1,13 @@
-# CS_by_Nxt - OOPs Learning Journey
+# CS Core Concepts Learning
 
-## Starting My OOPs Learning Journey
+This repository documents my journey of learning core Computer Science concepts.
 
-I've started learning Object-Oriented Programming (OOPs), and I'll be sharing my progress here with daily updates.
+## Currently Learning
 
-## What to Expect
-
-✨ **Core Concepts**
-- Encapsulation
-- Inheritance
-- Polymorphism
-- Abstraction
+1. OOP Concepts
+2. DBMS Concepts
+3. Operating Systems
+4. Computer Networks
 
 📚 **Learning Materials**
 - Simple code examples with real-world understanding
@@ -27,10 +24,10 @@ I've started learning Object-Oriented Programming (OOPs), and I'll be sharing my
 
 This is not just about learning syntax — it's about building a strong foundation in thinking and designing systems. The goal is to:
 
-- Understand the "why" behind OOPs principles
+- Understand the "why" behind CS principles
 - Write clean, maintainable, and scalable code
 - Design systems that are flexible and extensible
-- Solve real-world problems using OOPs concepts
+- Solve real-world problems using CS concepts
 
 
 
@@ -50,5 +47,5 @@ Follow along to see the journey unfold. 🎯
 
 ---
 
-**Last Updated**: April 6, 2026  
-**Current Status**: Active Learning - Day 7 in progress
+**Last Updated**: April 9, 2026  
+
